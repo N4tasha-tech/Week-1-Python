@@ -12,11 +12,11 @@ A simple Python program that performs basic arithmetic operations: addition, sub
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 1. Make sure you have **Python 3** installed on your computer.
 2. Save the program as `calculator.py`.
 3. Open a terminal (or command prompt) and run:
 
-```bash
+bash
 python calculator.py
