@@ -1,1 +1,1 @@
-huh wssgvsjnvgjsqljkdlkcdcdm,cdmn
+print("hello world")
